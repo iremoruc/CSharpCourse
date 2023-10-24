@@ -1,0 +1,15 @@
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Arrays\bin\Debug\net7.0\Arrays.exe
+E:\Tobeto\1A\CSharp\Intro\Arrays\bin\Debug\net7.0\Arrays.deps.json
+E:\Tobeto\1A\CSharp\Intro\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+E:\Tobeto\1A\CSharp\Intro\Arrays\bin\Debug\net7.0\Arrays.dll
+E:\Tobeto\1A\CSharp\Intro\Arrays\bin\Debug\net7.0\Arrays.pdb
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.dll
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.pdb
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+E:\Tobeto\1A\CSharp\Intro\Arrays\obj\Debug\net7.0\ref\Arrays.dll

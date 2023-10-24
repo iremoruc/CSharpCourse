@@ -1,0 +1,15 @@
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\bin\Debug\net7.0\TypesAndVeriables.exe
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\bin\Debug\net7.0\TypesAndVeriables.deps.json
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\bin\Debug\net7.0\TypesAndVeriables.runtimeconfig.json
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\bin\Debug\net7.0\TypesAndVeriables.dll
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\bin\Debug\net7.0\TypesAndVeriables.pdb
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.csproj.AssemblyReference.cache
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.AssemblyInfoInputs.cache
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.AssemblyInfo.cs
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.csproj.CoreCompileInputs.cache
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.dll
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\refint\TypesAndVeriables.dll
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.pdb
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\TypesAndVeriables.genruntimeconfig.cache
+E:\Tobeto\1A\CSharp\Intro\TypesAndVeriables\obj\Debug\net7.0\ref\TypesAndVeriables.dll

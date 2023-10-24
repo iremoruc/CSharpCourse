@@ -1,0 +1,15 @@
+E:\Tobeto\1A\CSharp\Intro\Intro\bin\Debug\net7.0\Intro.exe
+E:\Tobeto\1A\CSharp\Intro\Intro\bin\Debug\net7.0\Intro.deps.json
+E:\Tobeto\1A\CSharp\Intro\Intro\bin\Debug\net7.0\Intro.runtimeconfig.json
+E:\Tobeto\1A\CSharp\Intro\Intro\bin\Debug\net7.0\Intro.dll
+E:\Tobeto\1A\CSharp\Intro\Intro\bin\Debug\net7.0\Intro.pdb
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.csproj.AssemblyReference.cache
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.AssemblyInfoInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.AssemblyInfo.cs
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.csproj.CoreCompileInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.dll
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\refint\Intro.dll
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.pdb
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\Intro.genruntimeconfig.cache
+E:\Tobeto\1A\CSharp\Intro\Intro\obj\Debug\net7.0\ref\Intro.dll
