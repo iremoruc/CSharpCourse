@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tobeto\\1A\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj": {}
+    "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj": {}
   },
   "projects": {
-    "E:\\Tobeto\\1A\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj": {
+    "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tobeto\\1A\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj",
+        "projectUniqueName": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj",
         "projectName": "TypesAndVeriables",
-        "projectPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj",
+        "projectPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\TypesAndVeriables\\TypesAndVeriables.csproj",
         "packagesPath": "C:\\Users\\irem\\.nuget\\packages\\",
-        "outputPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\TypesAndVeriables\\obj\\",
+        "outputPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\TypesAndVeriables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

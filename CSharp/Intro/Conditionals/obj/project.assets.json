@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tobeto\\1A\\CSharp\\Intro\\Conditionals\\Conditionals.csproj",
+      "projectUniqueName": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Conditionals\\Conditionals.csproj",
       "projectName": "Conditionals",
-      "projectPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Conditionals\\Conditionals.csproj",
+      "projectPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Conditionals\\Conditionals.csproj",
       "packagesPath": "C:\\Users\\irem\\.nuget\\packages\\",
-      "outputPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Conditionals\\obj\\",
+      "outputPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Conditionals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

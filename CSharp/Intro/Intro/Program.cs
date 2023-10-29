@@ -1,7 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-
+﻿
+// Asal sayı çözümü
 //int sayac = 0;
 //for (int sayi = 2; sayi <= 100; sayi++)
 //{

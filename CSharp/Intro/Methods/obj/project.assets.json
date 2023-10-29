@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tobeto\\1A\\CSharp\\Intro\\Methods\\Methods.csproj",
+      "projectUniqueName": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Methods\\Methods.csproj",
+      "projectPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\irem\\.nuget\\packages\\",
-      "outputPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Methods\\obj\\",
+      "outputPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

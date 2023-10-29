@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tobeto\\1A\\CSharp\\Intro\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Arrays\\Arrays.csproj",
+      "projectPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\irem\\.nuget\\packages\\",
-      "outputPath": "E:\\Tobeto\\1A\\CSharp\\Intro\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\irem\\Desktop\\Tobeto\\CSharp\\Intro\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
