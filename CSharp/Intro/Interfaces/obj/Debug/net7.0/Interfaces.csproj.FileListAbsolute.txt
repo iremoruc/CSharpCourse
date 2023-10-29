@@ -1,0 +1,15 @@
+E:\Tobeto\1A\CSharp\Intro\Interfaces\bin\Debug\net7.0\Interfaces.exe
+E:\Tobeto\1A\CSharp\Intro\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+E:\Tobeto\1A\CSharp\Intro\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+E:\Tobeto\1A\CSharp\Intro\Interfaces\bin\Debug\net7.0\Interfaces.dll
+E:\Tobeto\1A\CSharp\Intro\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.dll
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+E:\Tobeto\1A\CSharp\Intro\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
