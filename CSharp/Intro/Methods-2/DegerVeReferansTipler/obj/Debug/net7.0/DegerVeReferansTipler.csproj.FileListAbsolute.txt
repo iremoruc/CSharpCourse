@@ -1,0 +1,15 @@
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.exe
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.deps.json
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\refint\DegerVeReferansTipler.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.genruntimeconfig.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\DegerVeReferansTipler\obj\Debug\net7.0\ref\DegerVeReferansTipler.dll

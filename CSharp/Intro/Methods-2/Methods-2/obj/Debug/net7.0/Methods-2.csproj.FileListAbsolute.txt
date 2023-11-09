@@ -1,0 +1,15 @@
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.csproj.AssemblyReference.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.AssemblyInfoInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.AssemblyInfo.cs
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.csproj.CoreCompileInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\bin\Debug\net7.0\Methods-2.exe
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\bin\Debug\net7.0\Methods-2.deps.json
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\bin\Debug\net7.0\Methods-2.runtimeconfig.json
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\bin\Debug\net7.0\Methods-2.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\bin\Debug\net7.0\Methods-2.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\refint\Methods-2.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\Methods-2.genruntimeconfig.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\Intro\Methods-2\Methods-2\obj\Debug\net7.0\ref\Methods-2.dll
