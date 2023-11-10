@@ -9,7 +9,10 @@ category1.Name = "Programlama";
 Instructor[] instructors = new Instructor[]
 {
     new Instructor{ Id = 1, Name ="Engin Demiroğ"},
-    new Instructor{ Id = 2, Name ="Halit Enes Kalaycı"}
+    new Instructor{ Id = 2, Name ="Halit Enes Kalaycı"},
+    new Instructor{ Id = 3, Name ="test"}
+
+
 };
 
 Course[] courses = new Course[]
