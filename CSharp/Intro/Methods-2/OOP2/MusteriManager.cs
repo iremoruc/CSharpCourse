@@ -9,7 +9,7 @@ namespace OOP2
     //İş sınıfları // business classes
     internal class MusteriManager
     {
-        public void Ekle(Musteri musteri)
+        public void Ekle(Musteri musteri) //polimorfizimm
         {
 
         }
