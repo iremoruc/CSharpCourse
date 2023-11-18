@@ -10,6 +10,7 @@ namespace Entities.Concretes
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Course[] Courses { get; set; }
+        //public Course[] Courses { get; set; }
+        List<Course> Courses { get; set; }
     }
 }

@@ -16,4 +16,7 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.13\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.13\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNUnitTestAdapter_WithFramework Condition=" '$(PkgNUnitTestAdapter_WithFramework)' == '' ">C:\Users\irem\.nuget\packages\nunittestadapter.withframework\2.0.0</PkgNUnitTestAdapter_WithFramework>
+  </PropertyGroup>
 </Project>
