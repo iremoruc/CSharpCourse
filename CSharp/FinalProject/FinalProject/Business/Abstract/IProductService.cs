@@ -16,7 +16,12 @@ namespace Business.Abstract
         IDataResult<Product> GetByUnitPrice(decimal min,decimal max);
         IDataResult<ProductDetailDto> GetProductDetails();
         IDataResult<Product> GetById(int productId);
-        IResult Add(Product product);
+        IResult Add(Product product); //bu kodlar istek
+
+        //restfull mimarileri internet protokolü Http yi kullanarak gerçekleştiriyoruz.
+
+
+        //RESTFUL --> HTTP --> 
 
     }
 }
