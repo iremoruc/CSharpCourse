@@ -1,0 +1,12 @@
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\irem\Desktop\Tobeto\CSharp\FinalProject\KodlamaIo\Entity\obj\Debug\net7.0\ref\Entity.dll

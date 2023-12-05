@@ -1,4 +1,9 @@
 
+using Business.Abstract;
+using Business.Concrete;
+using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
+
 namespace WebAPI
 {
     public class Program
@@ -15,6 +20,16 @@ namespace WebAPI
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+            void ConfigureServices(IServiceCollection services)
+            {
+                //Autofac, Ninject, CastleWindsor ... ---> IoC Container
+                // Aop
+                services.AddControllers();
+                services.AddSingleton<IProductService,ProductManager>();
+                services.AddSingleton<IProductDal, EfProductDal>();
+
+            }
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
