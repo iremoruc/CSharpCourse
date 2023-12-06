@@ -17,6 +17,8 @@ namespace DataAccess
         public static IServiceCollection AddDataAccessServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddScoped<ICategoryDal,EfCategoryDal>();
+            services.AddScoped<ICourseDal,EfCourseDal>();
+            services.AddScoped<IInstructorDal,EfInstructorDal>();
             services.AddDbContext<CourseAcademyDb>(options => options.UseInMemoryDatabase("CourseAcademy"));
             return services;
         }
