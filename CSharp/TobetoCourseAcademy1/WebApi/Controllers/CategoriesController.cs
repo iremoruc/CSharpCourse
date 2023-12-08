@@ -1,4 +1,5 @@
 ﻿using Business.Abstracts;
+using Business.Dtos.Requests;
 using Entities.Concretes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -23,9 +24,9 @@ namespace WebApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add([FromBody]Category category)
+        public async Task<IActionResult> Add([FromBody]CreateCategoryRequest createCategoryRequest)
         {
-            await _categoryService.AddAsync(category);
+            await _categoryService.AddAsync(createCategoryRequest);
             return Ok();
         }
     }

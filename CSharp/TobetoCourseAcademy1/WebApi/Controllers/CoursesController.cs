@@ -24,7 +24,7 @@ namespace WebApi.Controllers
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] Course course)
         {
-            await _courseService.AddAsync(course);
+            
             return Ok();
         }
     }

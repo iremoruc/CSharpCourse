@@ -19,7 +19,7 @@ namespace DataAccess
             services.AddScoped<ICategoryDal,EfCategoryDal>();
             services.AddScoped<ICourseDal,EfCourseDal>();
             services.AddScoped<IInstructorDal,EfInstructorDal>();
-            services.AddDbContext<CourseAcademyDb>(options => options.UseInMemoryDatabase("CourseAcademy"));
+            services.AddDbContext<CourseAcademyDb>(option => option.UseSqlServer(configuration.GetConnectionString("Db")));
             return services;
         }
     }

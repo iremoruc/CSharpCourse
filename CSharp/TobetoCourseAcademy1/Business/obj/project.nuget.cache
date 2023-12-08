@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5kJhycBkmPrnaJRWmU6QhshHpGeypPx4WxTVoedVtxuK/VZJfSKVLjmJm+yQMX2Sj/NYZXxCbfXPXQJkMN6Z5Q==",
+  "dgSpecHash": "RiswEDVjjAZTkIB5kz6xvw/ydfblD+dtSRO9g1fWeH/YG9r05ZeVKmBAWEepEZn0TiJ3LFnCzRPADeIh+8lVug==",
   "success": true,
   "projectFilePath": "E:\\Tobeto\\1A\\CSharp\\TobetoCourseAcademy1\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\irem\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\irem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\irem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\irem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\irem\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

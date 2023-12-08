@@ -79,3 +79,5 @@ E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\obj\Debug\net7.0\refint\WebApi.d
 E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\obj\Debug\net7.0\WebApi.pdb
 E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Tobeto\1A\CSharp\TobetoCourseAcademy1\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

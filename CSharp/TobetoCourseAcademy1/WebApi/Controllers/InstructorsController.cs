@@ -24,7 +24,7 @@ namespace WebApi.Controllers
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] Instructor instructor)
         {
-            await _instructorService.AddAsync(instructor);
+            
             return Ok();
         }
     }
