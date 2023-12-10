@@ -18,20 +18,23 @@ namespace Business.Mappings
             CreateMap<Category, CreateCategoryRequest>().ReverseMap(); //karşılıklı birbirlerinin yerine geçebilir.
             CreateMap<Category, UpdateCategoryRequest>().ReverseMap(); 
             CreateMap<Category, CreatedCategoryResponse>().ReverseMap();
-            //CreateMap<Paginate<Category>, GetCategoryResponse>().ReverseMap();
-            CreateMap<IPaginate<Category>, IPaginate<GetCategoryResponse>>()
-            .ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.Items));
+            CreateMap<Category, GetCategoryResponse>().ReverseMap();
+            CreateMap<Paginate<Category>, Paginate<GetCategoryResponse>>().ReverseMap(); 
+            
 
             CreateMap<Course, CreateCourseRequest>().ReverseMap(); 
             CreateMap<Course, UpdateCourseRequest>().ReverseMap(); 
             CreateMap<Course, CreatedCourseResponse>().ReverseMap(); 
-            CreateMap<Course, GetCoursesResponse>().ReverseMap(); 
+            CreateMap<Course, GetCoursesResponse>().ReverseMap();
+            CreateMap<Paginate<Course>, Paginate<GetCoursesResponse>>().ReverseMap();
+
 
             CreateMap<Instructor, CreateInstructorRequest>().ReverseMap();
             CreateMap<Instructor, UpdateInstructorRequest>().ReverseMap();
             CreateMap<Instructor, CreatedInstructorResponse>().ReverseMap();
             CreateMap<Instructor, GetInstructorResponse>().ReverseMap();
-            
+            CreateMap<Paginate<Instructor>, Paginate<GetInstructorResponse>>().ReverseMap();
+
 
         }
     }

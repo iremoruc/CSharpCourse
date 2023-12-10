@@ -12,7 +12,7 @@ namespace Business.Abstracts
 {
     public interface IInstructorService
     {
-        Task<IPaginate<GetInstructorResponse>> GetListAsync();
+        Task<Paginate<GetInstructorResponse>> GetListAsync();
         Task AddAsync(CreateInstructorRequest createInstructorRequest);
     }
 }

@@ -31,10 +31,10 @@ namespace Business.Concretes
             await _courseDal.AddAsync(course);
         }
 
-        public async Task<IPaginate<GetCoursesResponse>> GetListAsync()
+        public async Task<Paginate<GetCoursesResponse>> GetListAsync()
         {
             var courses = await _courseDal.GetListAsync();
-            return _mapper.Map<IPaginate<GetCoursesResponse>>(courses);
+            return _mapper.Map<Paginate<GetCoursesResponse>>(courses);
         }
     }
 }
