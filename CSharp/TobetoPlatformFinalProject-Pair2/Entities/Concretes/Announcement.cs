@@ -9,9 +9,12 @@ namespace Entities.Concretes
 {
     public class Announcement : Entity<Guid>
     {
-        public string Title { get; set; }
+        public Guid AnnouncementTypeId { get; set; }
         public string Description { get; set; }
-        public DateTime Date { get; set; }
+        public DateTime SendDate { get; set; }
         public bool IsRead { get; set; }
+
+        public AnnouncementType? AnnouncementType { get; set; }
+
     }
 }

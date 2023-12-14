@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Entities.Concretes
 {
-    public class Category : Entity<Guid>
+    public class Competence : Entity<Guid>
     {
+        public Guid StudentId { get; set; }
         public string Name { get; set; }
-        public List<SyncCourse>? SyncCourses { get; set; }
-        public List<AsyncCourse>? AsyncCourses { get; set; }
 
+        public Student? Student { get; set; }
     }
 }

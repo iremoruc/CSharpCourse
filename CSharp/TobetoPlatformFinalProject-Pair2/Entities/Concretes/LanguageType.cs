@@ -7,11 +7,10 @@ using System.Threading.Tasks;
 
 namespace Entities.Concretes
 {
-    public class Category : Entity<Guid>
+    public class LanguageType : Entity<Guid>
     {
         public string Name { get; set; }
-        public List<SyncCourse>? SyncCourses { get; set; }
-        public List<AsyncCourse>? AsyncCourses { get; set; }
 
+        public List<Language>? Languages { get; set; }
     }
 }

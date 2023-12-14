@@ -7,11 +7,10 @@ using System.Threading.Tasks;
 
 namespace Entities.Concretes
 {
-    public class AsynchronousCourse : Entity<Guid>
+    public class SocialMediaName : Entity<Guid>
     {
         public string Name { get; set; }
-        public string Title { get; set; }
-        public string VideoUrl { get; set; }
-        
+
+        public List<SocialMedia> SocialMedias { get; set; }
     }
 }
