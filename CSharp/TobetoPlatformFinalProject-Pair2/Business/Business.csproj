@@ -8,7 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Abstracts\" />
-    <Folder Include="Concretes\" />
+    <Folder Include="Business\Rules\" />
+    <Folder Include="Rules\" />
   </ItemGroup>
 
   <ItemGroup>
