@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-intro",
+  "version": "1.0.0",
+  "description": "nodejs intro project",
+  "main": "index.js",
+
+  "author": "",
+  "license": "ISC"
+}
